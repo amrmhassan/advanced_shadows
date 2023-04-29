@@ -1,7 +1,7 @@
 name: advanced_shadows
 description: This package will let you to add inner and outer shadows for the same widget.
 version: 0.0.1
-homepage:
+homepage: https://github.com/amrmhassan/advanced_shadows
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
